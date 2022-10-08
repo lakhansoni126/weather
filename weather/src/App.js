@@ -1,5 +1,5 @@
 import React from "react";
-import Wether from "./componets/Wether"
+import Wether from "./component/Wether"
 import './App.css';
 
 function App() {
